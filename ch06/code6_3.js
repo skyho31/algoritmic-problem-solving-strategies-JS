@@ -1,8 +1,9 @@
 /**
- * 148 page
+ * 152 page
  * chapter : 6.3 
  * date : 2018/7/11
  * author : Revine Kim
+ * 문제 ID : BOGGLE
  */
 
 //////////////////////////////////////
